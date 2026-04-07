@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @B at FruistantProductions
+- 👋 Hi, I’m @B at FruitstandProductions
 -  I like to tinker with tech, and break things alike.
--  Wannbe IT guy and music maker
+
 
     
 
